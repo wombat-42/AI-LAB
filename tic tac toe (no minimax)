@@ -94,3 +94,66 @@ def play_game():
 
 if __name__ == "__main__":
     play_game()
+
+OUTPUT
+
+
+ | | 
+-----
+ | | 
+-----
+ | | 
+-----
+Enter row (0, 1, 2): 0
+Enter column (0, 1, 2): 0
+X| | 
+-----
+ | | 
+-----
+ | | 
+-----
+X| | 
+-----
+ |O| 
+-----
+ | | 
+-----
+Enter row (0, 1, 2): 2
+Enter column (0, 1, 2): 2
+X| | 
+-----
+ |O| 
+-----
+ | |X
+-----
+X| |O
+-----
+ |O| 
+-----
+ | |X
+-----
+Enter row (0, 1, 2): 2
+Enter column (0, 1, 2): 3
+Invalid input! Please enter numbers between 0, 1, or 2.
+Enter row (0, 1, 2): 1
+Enter column (0, 1, 2): 2
+X| |O
+-----
+ |O|X
+-----
+ | |X
+-----
+X| |O
+-----
+ |O|X
+-----
+O| |X
+-----
+AI wins!
+
+
+
+
+
+
+
