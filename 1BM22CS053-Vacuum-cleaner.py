@@ -63,21 +63,21 @@ def main():
 if __name__ == "__main__":
     main()
 
-Enter the number of rows for the room: 2
-Enter the number of columns for the room: 2
-Initial room state:
-[1, 0]
-[1, 0]
-Cleaning position (0, 0)
-Room state:
-[0, 0]
-[1, 0]
+# Enter the number of rows for the room: 2
+# Enter the number of columns for the room: 2
+# Initial room state:
+# [1, 0]
+# [1, 0]
+# Cleaning position (0, 0)
+# Room state:
+# [0, 0]
+# [1, 0]
 
-Moved to (1, 0)
-Cleaning position (1, 0)
-Room state:
-[0, 0]
-[0, 0]
+# Moved to (1, 0)
+# Cleaning position (1, 0)
+# Room state:
+# [0, 0]
+# [0, 0]
 
-Moved to (0, 0)
-Cleaning complete! Total cleaned: 2 cells.
+# Moved to (0, 0)
+# Cleaning complete! Total cleaned: 2 cells.
